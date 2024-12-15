@@ -7,3 +7,5 @@
 
 Серобян Кима - ИСП-22
 
+dataprocessing.ipynb - обработка данных
+baseline.ipynb - baseline модель
