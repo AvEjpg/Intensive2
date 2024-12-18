@@ -10,7 +10,7 @@ __________________________________________________________________________
 
 ___________________________________________________________________________
 
-[main.ipynb](https://github.com/AvEjpg/Intensive2/blob/main/main.ipynb) - **Конечный результат нашей работы**
+[main.ipynb](https://github.com/AvEjpg/Intensive2/blob/main/main.ipynb) - <ins>**Конечный результат нашей работы**</ins>
 
 [intensiv-2.pptx](https://github.com/AvEjpg/Intensive2/blob/main/intensiv-2.pptx) - **Презентация к работе**
 
