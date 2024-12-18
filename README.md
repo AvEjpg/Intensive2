@@ -14,20 +14,38 @@ ___________________________________________________________________________
 
 [intensiv-2.pptx](https://github.com/AvEjpg/Intensive2/blob/main/intensiv-2.pptx) - **Презентация к работе**
 ___________________________________________________________________________
-- [old](https://github.com/AvEjpg/Intensive2/tree/main/old) - папка с нашими наработками и эксперементами
+<details>
+<summary><a href="https://github.com/AvEjpg/Intensive2/tree/main/old">old</a> - папка с нашими наработками и эксперементами</summary>
+
   * baseline.ipynb - первый вариант бейслайна
   * cleardata.csv - очищенный train.csv с помощью dataprocessing.ipynb
-  * clearvalid.csv - очищенный valid.csv с помощью dataprocessing.ipyn
+  * clearvalid.csv - очищенный valid.csv с помощью dataprocessing.ipynb
   * dataprocessing.ipynb - обработка данных
-- [Kuznetsov](https://github.com/AvEjpg/Intensive2/tree/main/Kuznetsov) - обработка данных и бейслайн Кузнецова Арсения
+
+</details>
+
+<details>
+<summary><a href="https://github.com/AvEjpg/Intensive2/tree/main/Kuznetsov">Kuznetsov</a> - обработка данных и бейслайн Кузнецова Арсения</summary>
+
   * baseline2.ipynb - обработка данных и модель RandomForest
   * tr.csv - очищенный train.csv в baseline2.ipynb
   * val.csv - очищенный train.csv с помощью baseline2.ipynb
-- [Novikova](https://github.com/AvEjpg/Intensive2/tree/main/Novikova) - обработка данных и бейслайн Новиковой Натальи
+
+</details>
+
+<details>
+<summary><a href="https://github.com/AvEjpg/Intensive2/tree/main/Novikova">Novikova</a> - обработка данных и бейслайн Новиковой Натальи</summary>
+
   * baseline.ipynb - обработка данных и модель LogisticRegression
   * clearTrain.csv - очищенный train.csv в baseline.ipynb
   * clearValid.csv - очищенный valid.csv в baseline.ipynb
-- [Serobyan](https://github.com/AvEjpg/Intensive2/tree/main/Serobyan) - бейслайн Серобян Кимы
+
+</details>
+
+<details>
+<summary><a href="https://github.com/AvEjpg/Intensive2/tree/main/Serobyan">Serobyan</a> - бейслайн Серобян Кимы</summary>
+
   * SerobyanBASELINE.ipynb - модель на XGBoost
 
+</details>
 
