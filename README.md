@@ -13,10 +13,7 @@ ___________________________________________________________________________
 [main.ipynb](https://github.com/AvEjpg/Intensive2/blob/main/main.ipynb) - <ins>**Конечный результат нашей работы**</ins>
 
 [intensiv-2.pptx](https://github.com/AvEjpg/Intensive2/blob/main/intensiv-2.pptx) - **Презентация к работе**
-
-
-
-
+___________________________________________________________________________
 [old](https://github.com/AvEjpg/Intensive2/tree/main/old) - папка с нашими наработками и эксперементами
 
 [Kuznetsov](https://github.com/AvEjpg/Intensive2/tree/main/Kuznetsov) - обработка данных и бейслайн Кузнецова Арсения
