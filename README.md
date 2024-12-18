@@ -13,6 +13,8 @@ ___________________________________________________________________________
 [main.ipynb](https://github.com/AvEjpg/Intensive2/blob/main/main.ipynb) - <ins>**Конечный результат нашей работы**</ins>
 
 [intensiv-2.pptx](https://github.com/AvEjpg/Intensive2/blob/main/intensiv-2.pptx) - **Презентация к работе**
+
+[submission.csv](https://github.com/AvEjpg/Intensive2/blob/main/submission.csv) - **Итоговый датафрейм с Score**
 ___________________________________________________________________________
 <details>
 <summary><a href="https://github.com/AvEjpg/Intensive2/tree/main/old">old</a> - папка с нашими наработками и эксперементами</summary>
